@@ -9,3 +9,7 @@ node_modules/
 
 # Log file
 *.log
+
+
+# OSX
+.DS_Store

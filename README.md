@@ -23,3 +23,9 @@ Die Veranstaltung hat drei Schwerpunkte:
 Der größte Teil der Veranstaltung verwendet JavaFX. Der Schwerpunkt liegt nicht im Erlernen der eher zufälligen JavaFX-APIs, sondern in der Vermittlung der grundsätzlichen Ideen und Entwurfsmuster.
 Besonderes Gewicht liegt auf Standardfragen der täglichen Praxis (z.B. der Gestaltung von Dialogen, Data-Binding, Nebenläufigkeit und Anwendungsarchitektur). Neben JavaFX werden weitere moderne Technologie wie beispielweise HTML5/JS betrachtet.
 Begleitend zur Vorlesung finden Übungen zur Vertiefung der erlernten Konzepte statt.
+
+## Übungen
+### Übung 1 - Arbeitsfähigkeit herstellen
+Ziel der Übung ist es für die folgenden Übungen Arbeitsfähigkeit herzustellen. Nachdem in den letzten Jahren die Heterogenität der Arbeitsgeräte (Studentenlaptops und Rechner im Labor) stark zugenommen hat, soll diese Übung sicherstellen, dass jeder Student Zugriff auf Entwicklungsumgebung und Musterlösungen hat.
+
+<a href="docbase/U-01-Arbeitsfaehigkeit.pdf">Übungsblatt 1</a>
